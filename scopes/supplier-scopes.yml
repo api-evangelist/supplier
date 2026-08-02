@@ -1,0 +1,16 @@
+generated: '2026-07-21'
+method: searched
+source: https://supplier.io/.well-known/oauth-authorization-server
+docs: https://royalplugins.com/support/royal-mcp/
+schemes:
+- name: OAuth2
+  source: well-known/supplier-oauth-authorization-server.json
+  flows:
+  - flow: authorizationCode
+    authorizationUrl: https://supplier.io/authorize
+    tokenUrl: https://supplier.io/token
+scopes:
+- scope: 'mcp:full'
+  description: Full access to the Royal MCP server tools exposed at supplier.io/wp-json/royal-mcp/v1
+  flows: [authorizationCode]
+  sources: ['well-known/supplier-oauth-authorization-server.json']

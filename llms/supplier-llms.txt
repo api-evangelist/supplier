@@ -1,0 +1,137 @@
+﻿# Supplier.io: Supplier Intelligence Solution
+
+> [Homepage](https://menlovc.com/): Build a stronger supplier base with supplier intelligence software. Unlock the benefits of small, diverse, and sustainable suppliers with Supplier.io’s supplier intelligence platform.
+
+> The XML sitemap of this website can by found by following [sitemap](https://supplier.io/sitemap_index.xml).
+
+## Platform
+
+- [Supplier Management Platform](https://supplier.io/platform): Streamline supplier relationships, ensure compliance, and gain full visibility with Supplier.io’s supplier management platform.
+- [Supplier Diversity Benchmarking Software](https://supplier.io/supplier-diversity-software/benchmarking): Benchmark your supplier diversity program against industry peers to identify opportunities with supplier benchmarking software.
+- [Supplier Data Enrichment](https://supplier.io/supplier-diversity-software/data-enrichment): Quickly enrich up to 2,000 supplier records with supplier data enrichment software. Get a demo!
+- [Diverse Spend Reporting Software](https://supplier.io/supplier-diversity-software/diverse-spend-reporting): Simplify diverse spend reporting with Supplier.io. Easily measure, monitor, and report on your diversity initiatives.
+- [Economic Impact Analysis &amp; Reporting Software](https://supplier.io/supplier-diversity-software/economic-impact-analysis): Analyze supplier impact and simplify reporting with Supplier.io’s economic impact analysis and reporting software.
+- [Small Supplier Engagement Platform](https://supplier.io/supplier-diversity-software/grow-your-program/small-supplier-engagement): Make engaging with local and small suppliers easy. Unlock the power of millions of local and small suppliers to strengthen your supply chain.
+- [Supplier Discovery &amp; Vendor Vetting Software](https://supplier.io/supplier-diversity-software/grow-your-program/supplier-discovery-and-vetting): Find the perfect suppliers for your business needs with supplier discovery software. Get instant access to trusted small, diverse, and sustainable suppliers through Supplier.io’s vendor vetting software.
+- [Supplier Discovery &amp; Vendor Vetting Software](https://supplier.io/supplier-diversity-software/grow-your-program/supplier-explorer): Find the perfect suppliers for your business needs with supplier discovery software. Get instant access to trusted small, diverse, and sustainable suppliers through Supplier.io’s vendor vetting software.
+- [Supplier Registration](https://supplier.io/supplier-diversity-software/grow-your-program/supplier-registration): Make it easy for suppliers to provide you with detailed info, and even easier for you to collect, review, and leverage supplier insights.
+- [Carbon Analytics](https://supplier.io/supplier-diversity-software/scope-3-reporting): Unlock actionable insights into your supply chain’s carbon footprint, streamline regulatory reporting, and accelerate your path to net-zero.
+- [Supplier Diversity Analytics &amp; Reporting Software](https://supplier.io/supplier-diversity-software/supplier-diversity-reporting): Simple data collection &amp; analysis with leading supplier analytics platform. No more manual reports with supplier diversity reporting software.
+- [Supplier Explorer Emissions](https://supplier.io/supplier-diversity-software/supplier-explorer-emissions): Unleash the power of climate data to transform your supply chain. Gain critical insights into your suppliers’ environmental impact.
+- [Tier 2 Supplier Diversity Reporting Software](https://supplier.io/supplier-diversity-software/tier-2-spend-reporting): Simplify and automate supplier diversity reporting with tier 2 reporting software. Engage suppliers to report their small and diverse spend.
+- [Supplier Explorer](https://supplier.io/supplier-explorer): Find more suppliers for alternate and competitive sourcing from the industry’s largest and most accurate supplier database.
+- [Diverse Supplier Database &amp; Directory](https://supplier.io/platform/supplier-database): Access a verified supplier directory and diverse supplier database with Supplier.io. Strengthen your supplier diversity initiatives.
+- [Supplier Sourcing Software Platform](https://supplier.io/platform/supplier-sourcing): Expand your network with a supplier sourcing platform. Find, evaluate, and connect with suppliers using a diverse supplier sourcing software solution.
+
+
+## Solutions
+
+- [Solution By Role Buyer &amp; Strategic Planner](https://supplier.io/solution-by-role-buyer-strategic-planner): Quickly discover, evaluate, and onboard high-value suppliers to enhance agility, reduce costs, and meet ESG goals.
+- [Solution By Role Chief Procurement Officer](https://supplier.io/solution-by-role-chief-procurement-officer): Empower your team with insights that are proven to reduce supply chain risk and amplify business impact, while meeting your strategic goals.
+- [Solution By Role Responsible / Inclusive Sourcing Leader](https://supplier.io/solution-by-role-responsible-inclusive-sourcing-leader): Advance your program with accurate insights, measurable results, and the visibility to show how inclusive sourcing drives business and community value.
+- [ESG Software for Reporting, Management &amp; More](https://supplier.io/solutions/esg): Simplify reporting and monitoring, ensure compliance, and track performance with Supplier.io’s comprehensive ESG software for data and risk management.
+- [Find a Supplier For Your Business with Supplier.io](https://supplier.io/solutions/find-suppliers): Easily find a supplier you can trust. Supplier.io connects you with verified vendors that match your business needs, saving time and reducing sourcing risks.
+- [B2B Procurement Platform](https://supplier.io/solutions/industry/business-services): Automate, reduce risk, and simplify global procurement with Supplier.io’s B2B procurement platform.
+- [Energy Industry Vendor Management Software](https://supplier.io/solutions/industry/energy-utilities): Reduce risk, improve supplier performance, and enhance compliance with Supplier.io’s vendor management software for the energy sector.
+- [Vendor Management Software for Financial Institutions, Banks &amp; Credit Unions](https://supplier.io/solutions/industry/financial-services): Ensure regulatory compliance and reduce supplier risk with Supplier.io’s vendor management software for financial institutions, banks, and credit unions.
+- [Vendor Management Software for Manufacturing](https://supplier.io/solutions/industry/manufacturing): Optimize operations and reduce supply chain disruptions with Supplier.io’s vendor management software for manufacturing.
+- [Retail Supply Chain Software](https://supplier.io/solutions/industry/retail-hospitality): Supplier.io empowers retail and hospitality brands with leading retail supply chain software to meet consumer demand, ensure compliance, and streamline operations.
+- [Responsible Sourcing Software](https://supplier.io/solutions/responsible-sourcing-program): Empower your business with accurate data and insights from Supplier.io’s responsible sourcing software. Gain full visibility into your supply chain to ensure ethical sourcing.
+- [Supplier Compliance Software](https://supplier.io/solutions/supplier-compliance-software): Automate compliance tracking, reduce supplier risk, and meet regulatory requirements with powerful supplier compliance software.
+- [Supplier Data Management Solution](https://supplier.io/solutions/supplier-data-management): Streamline procurement with supplier data management solutions from Supplier.io. Improve visibility and ensure accuracy for strategic sourcing decisions.
+- [Supplier Master Data Management Software](https://supplier.io/solutions/supplier-data-management-software): Clean, connect, and control supplier information with powerful supplier master data management software. Make smarter decisions and improve operational efficiency to build stronger supply chains.
+- [Supplier Risk Management Software Solution](https://supplier.io/solutions/supplier-risk-management-software): Protect your business with leading supplier risk management software. Streamline risk analysis, ensure compliance, and build stronger supplier relationships.
+- [Supply Chain Analytics &amp; Tracking Software](https://supplier.io/solutions/supply-chain-analytics-software): Track performance and monitor suppliers to make data-driven decisions with powerful supply chain analytics and tracking software from Supplier.io.
+- [Supply Chain Intelligence Software](https://supplier.io/solutions/supply-chain-intelligence-software): Improve supply chain transparency, streamline sourcing, and reduce risk with Supplier.io’s supply chain intelligence software.
+- [Supply Chain Optimization Software](https://supplier.io/solutions/supply-chain-optimization-software): Transform your supply chain and make data-driven decisions with advanced supply chain optimization software from Supplier.io.
+- [Supply Chain Resilience Software Solution](https://supplier.io/solutions/supply-chain-resilience-software): Build a strong and agile supply chain with Supplier.io’s supply chain resilience software. Reduce disruptions, monitor risk, and improve visibility.
+- [Supply Chain Sustainability Software](https://supplier.io/solutions/supply-chain-sustainability-software): Ensure compliance, reduce environmental impact, and gain visibility with Supplier.io’s supply chain sustainability software, built for responsible procurement.
+- [Supply Chain Visibility Platform](https://supplier.io/solutions/supply-chain-visibility): Improve supply chain transparency, reduce supplier risk, and drive efficiency with Supplier.io’s supply chain visibility software.
+
+
+## Additional
+
+- [Unitier (Tier 2 Reporting)](https://supplier.io/unified-tier-2-reporting-platform): UniTier simplifies the process by enabling suppliers to report your diverse spend to multiple customers in one place.
+- [Supplier Homepage](https://supplier.io/diverse-supplier-registration): Are you a supplier? Register your business. Be seen by over 2,000 corporate buyers.
+- [Online Data Enrichment](https://supplier.io/online-data-enrichment): Analyze your small and diverse spend in a flash - Quickly enrich up to 2,000 supplier records with the most accurate supplier data available.
+
+
+## Company Information
+
+- [About Us](https://supplier.io/about)
+- [Careers](https://supplier.io/careers)
+- [Pricing](https://supplier.io/pricing)
+- [Contact](https://supplier.io/contact-us)
+- [Why Supplier.io](https://supplier.io/why-supplierio-for-supplier-diversity
+
+
+## Additional Information
+
+- [Resources](https://supplier.io/resource-library)
+- [Webinar](https://supplier.io/webinar-index)
+- [Blog](https://supplier.io/blog-index)
+- [Glossary](https://supplier.io/glossary)
+- [News](https://supplier.io/news-index)
+
+
+## Legal and Compliance
+
+- [Terms](https://supplier.io/terms-of-use)
+- [Privacy](https://supplier.io/privacy-policy)
+
+
+
+## Resources
+
+- [Inside Supplier.io: Product updates and live Q&amp;A Webinar](https://supplier.io/resources/webinar/inside-supplierio)
+- [June 2026 Demand Index: Buyers staff up and gear up for the second half](https://supplier.io/resources/blog/june-2026-demand-index-buyers-staff-up)
+- [How to Respond to an Enterprise RFP: A Small Supplier’s Playbook](https://supplier.io/resources/blog/how-to-respond-to-an-enterprise-rfp)
+- [How to Get on a Company’s Approved Vendor List (AVL)](https://supplier.io/resources/blog/how-to-get-on-a-companys-approved-vendor-list-avl)
+- [Understanding Regional Economic Impact Analysis and Why It Matters ](https://supplier.io/resources/blog/regional-economic-impact-analysis)
+- [SupplierOne PLUS: See Real Buyer Data and the Features That Drive Supplier Visibility](https://supplier.io/resources/webinar/supplierone-plus-see-real-buyer-data-and-features)
+- [The Comprehensive Guide to Vendor Master Data Management](https://supplier.io/resources/blog/the-comprehensive-guide-to-vendor-master-data-management)
+- [The Ultimate Guide to AI for Supplier Discovery](https://supplier.io/resources/blog/the-ultimate-guide-to-ai-for-supplier-discovery)
+- [Vendor Master Data Management: The Cornerstone of Procurement Efficiency](https://supplier.io/resources/blog/vendor-master-data-management-the-cornerstone-of-procurement-efficiency)
+- [The Guide to Supplier Data Enrichment: Enabling Smarter Procurement Decisions](https://supplier.io/resources/blog/the-guide-to-supplier-data-enrichment-enabling-smarter-procurement-decisions)
+- [How to Clean Up Your Supplier Data](https://supplier.io/resources/blog/how-to-clean-up-your-supplier-data)
+- [The Power of AI in Procurement: Revolutionizing Supplier Data Management](https://supplier.io/resources/blog/the-power-of-ai-in-procurement-revolutionizing-supplier-data-management)
+- [The Guide to Vendor Data Cleansing](https://supplier.io/resources/blog/the-guide-to-vendor-data-cleansing)
+- [The Hidden Link Between Vendor Data Management and Procurement ROI](https://supplier.io/resources/blog/vendor-master-data-management-procurement-roi)
+- [Is SAP Ariba Really the Problem?](https://supplier.io/resources/blog/is-sap-the-problem)
+- [The Hidden “Data Tax” of Poor Supplier Data Quality](https://supplier.io/resources/blog/the-hidden-data-tax-of-poor-supplier-data-quality)
+- [Procurement Data Management: The Challenges and Solutions](https://supplier.io/resources/blog/procurement-data-management-challenges-solutions)
+- [Transforming Procurement with Trusted Supplier Data](https://supplier.io/resources/blog/transforming-procurement-with-trusted-supplier-data)
+- [Entity Resolution: The Overlooked ROI Driver in Procurement](https://supplier.io/resources/blog/legal-entity-resolution-the-overlooked-roi-driver-in-procurement)
+- [Why Vendor Data Cleansing Is Essential for Procurement Efficiency](https://supplier.io/resources/blog/why-vendor-data-cleansing-is-essential-for-procurement-efficiency)
+- [What is a Supplier Data Foundation?](https://supplier.io/resources/blog/what-is-a-supplier-data-foundation)
+- [Vendor Master Data Quality: Fix the Foundation Before You Build Anything Else](https://supplier.io/resources/blog/vendor-master-data-quality-fix-the-foundation-before-you-build-anything-else)
+- [These Critical Mistakes Are Leading to Poor Procurement Data Quality](https://supplier.io/resources/blog/these-critical-mistakes-are-leading-to-poor-procurement-data-quality)
+- [Supplier Data Enrichment and AI in Procurement: How They Work Together](https://supplier.io/resources/blog/supplier-data-enrichment-and-ai-in-procurement-how-they-work-together)
+- [How to Tackle Vendor Data Cleansing Effectively](https://supplier.io/resources/blog/vendor-data-cleansing-best-practices)
+- [Why Entity Resolution Is the Foundation of Reliable Supplier Intelligence](https://supplier.io/resources/blog/why-entity-resolution-is-the-foundation-of-reliable-supplier-intelligence)
+- [AI Without Supplier Data Doesn’t Work](https://supplier.io/resources/blog/ai-without-supplier-data-doesnt-work)
+- [The Financial Impact of Clean Supplier Data: Before and After a Vendor Master Cleanse](https://supplier.io/resources/blog/the-financial-impact-of-clean-supplier-data-before-and-after-a-vendor-master-cleanse)
+- [Don’t Blame SAP Ariba—Fix the Data](https://supplier.io/resources/blog/dont-blame-sap-ariba-fix-the-data)
+- [AI in Procurement: Myths vs. Reality](https://supplier.io/resources/blog/myths-around-ai-in-procurement)
+- [Procurement Data Challenges Are Standing in the Way of AI — Here&#039;s What to Do About It](https://supplier.io/resources/blog/procurement-data-challenges-are-standing-in-the-way-of-ai-heres-what-to-do-about-it)
+- [Economic Impact Analysis: The Ultimate Guide](https://supplier.io/resources/blog/understanding-economic-impact-analysis-supplier-diversity)
+- [Supplier Contract Compliance: A Professional Guide to Performance and Risk](https://supplier.io/resources/blog/supplier-contract-compliance)
+- [9 Effective Strategies to Increase Supplier Compliance ](https://supplier.io/resources/blog/increase-supplier-compliance)
+- [May 2026 Demand Index: Buyers focused on keeping business moving](https://supplier.io/resources/blog/may-2026-demand-index-buyers-focused-on-keeping-business-moving)
+- [From Spend Tracking to Economic Impact: The Data Your Leadership Actually Wants to See ](https://supplier.io/resources/blog/from-spend-tracking-to-economic-impact-the-data-your-leadership-actually-wants-to-see)
+- [Supplier Registration Checklist: What You Need Before Applying to Corporate Buyer Portals](https://supplier.io/resources/blog/supplier-registration-checklist-corporate-buyer-portals)
+- [How to Get Corporate Contracts as a Small Business Supplier](https://supplier.io/resources/blog/how-to-get-corporate-contracts-as-a-small-business-supplier)
+- [Your Program is Creating Jobs and Tax Revenue. Can You Prove It?](https://supplier.io/resources/blog/supplier-diversity-economic-impact)
+- [Supplier Compliance Management: A Complete Guide for 2026](https://supplier.io/resources/blog/supplier-compliance-management)
+- [Your Supplier Spend Is Driving Economic Impact: Can you prove it?](https://supplier.io/resources/webinar/prove-economic-impact)
+- [Product Spotlight: Inside SupplierOne PLUS](https://supplier.io/resources/webinar/product-spotlight-inside-supplierone-plus)
+- [Supplier Diversity Program Optimization: A Strategic Guide ](https://supplier.io/resources/blog/supplier-diversity-program-optimization)
+- [Your Supplier Data Is Costing You More Than You Think — Here&#039;s Why ](https://supplier.io/resources/blog/your-supplier-data-is-costing-you-more-than-you-think-heres-why)
+- [Why Supplier Visibility Matters Before Buyers Ever Reach Out](https://supplier.io/resources/blog/why-supplier-visibility-matters-before-buyers-reach-out)
+- [Federal Supplier Diversity Requirements: 2026 Compliance Guide ](https://supplier.io/resources/blog/federal-supplier-diversity-requirements)
+- [How Tariffs and Trade Uncertainty Are Changing Supplier Sourcing in 2026](https://supplier.io/resources/blog/how-tariffs-are-changing-supplier-sourcing-2026)
+- [April 2026 Supplier Demand Index: What Buyers Searched For and Why It Matters](https://supplier.io/resources/blog/april-2026-supplier-demand-index-what-buyers-searched-for-and-why-it-matters)
+- [The Real Cost of Bad Supplier Data ](https://supplier.io/resources/blog/the-real-cost-of-bad-supplier-data)
+- [Best Practices for Supplier Diversity in 2026](https://supplier.io/resources/report/best-practices-for-supplier-diversity-in-2026)
+- [The Supplier Visibility Gap: Reduce Costs and Improve Growth in 2026](https://supplier.io/resources/webinar/the-supplier-visibility-gap-reduce-costs-and-improve-growth)
+

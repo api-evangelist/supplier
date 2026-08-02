@@ -1,0 +1,36 @@
+generated: '2026-07-21'
+method: searched
+status: published
+source: https://supplier.io/.well-known/oauth-protected-resource
+server:
+  name: supplier
+  transport: http
+  url: https://supplier.io/wp-json/royal-mcp/v1
+  implementation: Royal MCP (WordPress plugin)
+  service_documentation: https://royalplugins.com/support/royal-mcp/
+auth:
+  required: true
+  methods:
+  - oauth2
+  - api_key
+  oauth2:
+    authorization_server: https://supplier.io
+    authorization_endpoint: https://supplier.io/authorize
+    token_endpoint: https://supplier.io/token
+    registration_endpoint: https://supplier.io/register
+    grant_types: [authorization_code, refresh_token]
+    pkce: S256
+    scopes: [mcp:full]
+  api_key:
+    header: X-Royal-MCP-API-Key
+  bearer:
+    header: Authorization
+    methods_supported: [header]
+tools: []
+notes: >-
+  Real, published MCP server discovered via RFC 9728 protected-resource metadata at
+  supplier.io. It is the Royal MCP WordPress plugin exposing the site's content over MCP,
+  not a supplier-domain business API. The endpoint requires OAuth 2.0 (mcp:full) or an
+  X-Royal-MCP-API-Key, so the tool list could not be enumerated anonymously (initialize
+  returns "Authentication required"). No supplier.io OpenAPI is published to derive a
+  candidate tool set from.

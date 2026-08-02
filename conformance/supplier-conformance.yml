@@ -1,0 +1,29 @@
+generated: '2026-07-21'
+method: searched
+source: https://supplier.io/.well-known/oauth-authorization-server + /.well-known/oauth-protected-resource
+standards:
+- id: oauth2
+  conforms: true
+  evidence: >-
+    /.well-known/oauth-authorization-server advertises authorization_code + refresh_token
+    grants with authorization/token endpoints (scope mcp:full)
+- id: rfc8414-oauth-authorization-server-metadata
+  conforms: true
+  evidence: /.well-known/oauth-authorization-server returns valid RFC 8414 metadata (200)
+- id: rfc9728-protected-resource-metadata
+  conforms: true
+  evidence: /.well-known/oauth-protected-resource returns valid RFC 9728 metadata (200)
+- id: rfc7591-dynamic-client-registration
+  conforms: true
+  evidence: registration_endpoint https://supplier.io/register advertised in server metadata
+- id: pkce-rfc7636
+  conforms: true
+  evidence: code_challenge_methods_supported includes S256
+- id: mcp
+  conforms: true
+  evidence: >-
+    Model Context Protocol server published at supplier.io/wp-json/royal-mcp/v1 (Royal MCP
+    plugin) with OAuth-guarded access
+- id: oidc
+  conforms: false
+  evidence: /.well-known/openid-configuration returns 404

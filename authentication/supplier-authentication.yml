@@ -1,0 +1,33 @@
+generated: '2026-07-21'
+method: searched
+source: https://supplier.io/.well-known/oauth-authorization-server + /.well-known/oauth-protected-resource
+scope: MCP server (supplier.io/wp-json/royal-mcp/v1) — no other public API is documented
+summary:
+  types: [oauth2, apiKey, http]
+  api_key_in: [header]
+  oauth2_flows: [authorizationCode]
+schemes:
+- name: OAuth2
+  type: oauth2
+  flow: authorizationCode
+  authorizationUrl: https://supplier.io/authorize
+  tokenUrl: https://supplier.io/token
+  registrationUrl: https://supplier.io/register
+  pkce: S256
+  scopes: [mcp:full]
+  sources: ['well-known/supplier-oauth-authorization-server.json']
+- name: ApiKey
+  type: apiKey
+  in: header
+  parameter: X-Royal-MCP-API-Key
+  sources: ['live probe of supplier.io/wp-json/royal-mcp/v1']
+- name: Bearer
+  type: http
+  scheme: bearer
+  in: header
+  parameter: Authorization
+  sources: ['well-known/supplier-oauth-protected-resource.json']
+notes: >-
+  Authentication model reflects the published Royal MCP server surface only. Supplier.io's
+  core procurement application (explorer.supplier.io) is a session/login web app with no
+  documented public developer API.

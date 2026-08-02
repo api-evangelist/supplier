@@ -1,0 +1,21 @@
+generated: '2026-07-21'
+method: searched
+source: live probe of https://supplier.io/.well-known/*
+host: https://supplier.io
+documents:
+- path: /.well-known/oauth-authorization-server
+  status: 200
+  file: supplier-oauth-authorization-server.json
+  note: RFC 8414 OAuth 2.0 Authorization Server Metadata (advertises the Royal MCP server; scope mcp:full)
+- path: /.well-known/oauth-protected-resource
+  status: 200
+  file: supplier-oauth-protected-resource.json
+  note: RFC 9728 OAuth 2.0 Protected Resource Metadata (resource https://supplier.io/wp-json/royal-mcp/v1)
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
